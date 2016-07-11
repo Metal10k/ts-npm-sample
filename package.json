@@ -1,5 +1,5 @@
 {
-  "name": "ts-npm-sample-module",
+  "name": "ts-npm-sample",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.ts",
